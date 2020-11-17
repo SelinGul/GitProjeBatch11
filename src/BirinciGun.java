@@ -7,9 +7,9 @@ public class BirinciGun {
 		System.out.println("10:11-Ikinci gun");
 		System.out.println("10:26 -Ikinci gun");
 		System.out.println("10:35 -Ikinci gun");
-
-		System.out.println("11.05-local ");
-                System.out.println("11.23-github.com ");
+                System.out.println("11.05-local ");
+		System.out.println("11.23-github.com ");
+                System.out.println("11.28- bakalim conflict olacak mi? ");
 		
 		
 		
