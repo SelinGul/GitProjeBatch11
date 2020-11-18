@@ -12,7 +12,7 @@ public class BirinciGun {
 		System.out.println("Ben buradan conflict beklemiyorum");
         System.out.println("Localden yepyeni satir");
         System.out.println("20:40- feature");     
-               
+        System.out.println("20:52-feature branch");       
 	}
 }
 	
